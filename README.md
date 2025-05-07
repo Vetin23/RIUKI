@@ -12,7 +12,6 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Lucas_</p>
         <h1>Eu ensino Programação</h1>
         <p>Sou Engenheiro de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
